@@ -1,0 +1,42 @@
+.conteiner{
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+.box_calc{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 580px;
+    height: 800px;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+
+.box_num{
+    background-color: rgb(34, 34, 34);
+    
+    width: 120px;
+    height:120px;
+    margin: 10px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.area_result{
+    background-color: rgb(105, 105, 105);
+    width: 520px;
+    height: 150px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+
+}
+
